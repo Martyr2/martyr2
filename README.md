@@ -51,6 +51,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exception Handling With A Level of Abstraction](https://www.coderslexicon.com/exception-handling-with-a-level-of-abstraction/)
+- [Minimalism in Code](https://www.coderslexicon.com/minimalism-in-code/)
+- [NULL is Legit When Used Correctly](https://www.coderslexicon.com/null-legit-when-used-correctly/)
+- [Loading Gravity Forms from a Database](https://www.coderslexicon.com/loading-gravity-forms-from-a-database/)
+- [Generating JSON Web Tokens (JWT) in Java or PHP](https://www.coderslexicon.com/generating-json-web-tokens-jwt-in-java-or-php/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
