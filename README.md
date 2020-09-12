@@ -47,6 +47,12 @@
 <br />
 <br />
 
+---
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://www.coderslexicon.com
 [twitter]: https://twitter.com/coderslexicon
 [facebook]: https://www.facebook.com/coderslexicon
