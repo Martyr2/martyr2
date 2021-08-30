@@ -51,11 +51,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Applying Functional Programming Ideas to OOP](https://www.coderslexicon.com/applying-functional-programming-ideas-to-oop/)
 - [Using Multiple Submit Buttons With A Single Form](https://www.coderslexicon.com/using-multiple-submit-buttons-with-a-single-form/)
 - [Creating Enumerations in PHP](https://www.coderslexicon.com/creating-enumerations-in-php/)
 - [Exception Handling With A Level of Abstraction](https://www.coderslexicon.com/exception-handling-with-a-level-of-abstraction/)
 - [Minimalism in Code](https://www.coderslexicon.com/minimalism-in-code/)
-- [NULL is Legit When Used Correctly](https://www.coderslexicon.com/null-legit-when-used-correctly/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://www.coderslexicon.com
