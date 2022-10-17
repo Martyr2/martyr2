@@ -51,6 +51,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Functions Are Half the Battle](https://www.coderslexicon.com/functions-are-half-the-battle/)
 - [Applying Functional Programming Ideas to OOP](https://www.coderslexicon.com/applying-functional-programming-ideas-to-oop/)
 - [Using Multiple Submit Buttons With A Single Form](https://www.coderslexicon.com/using-multiple-submit-buttons-with-a-single-form/)
 - [Creating Enumerations in PHP](https://www.coderslexicon.com/creating-enumerations-in-php/)
