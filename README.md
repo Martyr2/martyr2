@@ -1,4 +1,4 @@
-### Hello, I am Martyr2, paid blogger on [Sitepoint's Blog][sitepoint], system architect and founder of [The Coders Lexicon][website].
+### Hello, I am Tim (aka. Martyr2), paid blogger on [Sitepoint's Blog][sitepoint], system architect and founder of [The Coders Lexicon][website].
 
 [![Website](http://img.shields.io/website?label=coderslexicon.com&style=for-the-badge&url=https%3A%2F%2Fwww.coderslexicon.com)](https://www.coderslexicon.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/coderslexicon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmartyr2&screen_name=CodersLexicon)
