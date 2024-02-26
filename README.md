@@ -3,13 +3,13 @@
 [![Website](http://img.shields.io/website?label=coderslexicon.com&style=for-the-badge&url=https%3A%2F%2Fwww.coderslexicon.com)](https://www.coderslexicon.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/coderslexicon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmartyr2&screen_name=CodersLexicon)
 
-## I am a 25+ year developer from Vancouver Canada currently specializing in backend web development systems, integrations and API design.
+## I am a 26+ year developer from Vancouver Canada currently specializing in backend web development systems, integrations and API design.
 
 - ⚡ I'm currently changing several backend systems to help a company, who was acquired in 2020, merge with new systems
 - ⚡ I work in full LAMP/WAMP stack environments that drive product adoption
 - ⚡ Much of my github account work is in private repositories
 - ⚡ Goal for 2024: Continue to develop a personal library of ready to go code, across multiple languages, for whatever projects I have
-- ⚡ Fun fact: I have mentored thousands of developers over the past 13+ years on Dream.In.Code (now closed) with over 14k posts and now Sitepoint.com!
+- ⚡ Fun fact: I have mentored thousands of developers over the past 13+ years online. Now you can find me on Sitepoint.com!
 - ⚡ Fun fact: I was recognized for my work on the web platform portion of Bria X which won an award in 2017 for Unified Communications Product of the Year.
 
 ### Spotify Playing 🎧
