@@ -8,7 +8,7 @@
 - ⚡ I'm currently changing several backend systems to help a company, who was acquired in 2020, merge with new systems
 - ⚡ I work in full LAMP/WAMP stack environments that drive product adoption
 - ⚡ Much of my github account work is in private repositories
-- ⚡ Goal for 2024: Continue to develop a personal library of ready to go code, across multiple languages, for whatever projects I have
+- ⚡ Goal for 2024: Develop a personal library of ready to go code, across multiple languages, for whatever projects I have
 - ⚡ Fun fact: I have mentored thousands of developers over the past 13+ years online. Now you can find me on Sitepoint.com!
 - ⚡ Fun fact: I was recognized for my work on the web platform portion of Bria X which won an award in 2017 for Unified Communications Product of the Year.
 
