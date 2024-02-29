@@ -25,7 +25,13 @@
 
 <br />
 
-### Languages and Tools:
+### Check out my publications!
+
+- [The Programmers Idea Book](https://www.coderslexicon.com/downloads/the-programmers-idea-book/)
+- [Diagnosing The Problem](https://www.coderslexicon.com/downloads/diagnosing-the-problem/)
+
+
+### Languages and Tools I Use:
 
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
