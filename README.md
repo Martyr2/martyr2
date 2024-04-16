@@ -6,7 +6,7 @@
 ## I am a 26+ year developer from Vancouver Canada currently specializing in backend web development systems, integrations and API design.
 
 - ⚡ I'm currently changing several backend systems to help a company, who was acquired in 2020, merge with new systems
-- ⚡ I work in full LAMP/WAMP stack environments that drive product adoption
+- ⚡ I work in full stack environments that drive product adoption
 - ⚡ Much of my github account work is in private repositories
 - ⚡ Goal for 2024: Develop a personal library of ready to go code, across multiple languages, for whatever projects I have
 - ⚡ Fun fact: I have mentored thousands of developers over the past 13+ years online. Now you can find me on Sitepoint.com!
@@ -16,14 +16,12 @@
 
 [Background Music Coding Playlist](https://open.spotify.com/playlist/2dDHMiKgWo8hH9PYbDt9wL)
 
-### Connect with me:
+### Check out some of my content on SitePoint 💥
 
-[<img align="left" alt="coderslexicon.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="coderslexicon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
-[<img align="left" alt="coderslexicon | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Tim Hurd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+- [Functional Programming in PHP: Higher-order Functions](https://www.sitepoint.com/functional-programming-in-php-higher-order-functions/)<br />
+- [Flexible API Design: Create Hooks for Your PHP API Pipeline](https://www.sitepoint.com/flexible-api-design-create-hooks-for-php-api-pipeline/)<br />
+- [5 Easy Strategies to Make WordPress Enterprise-ready in 2021](https://www.sitepoint.com/make-wordpress-enterprise-ready/)<br />
+- [Introduction to Data Types: Static, Dynamic, Strong & Weak](https://www.sitepoint.com/typing-versus-dynamic-typing/)
 
 ### Check out my publications!
 
