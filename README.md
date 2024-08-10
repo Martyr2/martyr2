@@ -56,6 +56,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling Time Zone Calculations in Your Web Applications with UTC and MySQL](https://www.coderslexicon.com/handling-time-zone-calculations-in-your-web-applications-with-utc-mysql/)
 - [Random Quote Generator Using Try-With-Resources In Java](https://www.coderslexicon.com/random-quote-generator-using-try-with-resources-in-java/)
 - [Functions Are Half the Battle](https://www.coderslexicon.com/functions-are-half-the-battle/)
 - [Applying Functional Programming Ideas to OOP](https://www.coderslexicon.com/applying-functional-programming-ideas-to-oop/)
