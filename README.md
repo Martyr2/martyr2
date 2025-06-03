@@ -57,6 +57,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Your Own Model Context Protocol (MCP) Server With Node and Python](https://www.coderslexicon.com/building-your-own-model-context-protocol-mcp-server-with-node-and-python/)
 - [Creating Self-Signed OpenSSL Certs in Python For Development](https://www.coderslexicon.com/creating-self-signed-openssl-certs-in-python-for-development/)
 - [Handling Time Zone Calculations in Your Web Applications with UTC and MySQL](https://www.coderslexicon.com/handling-time-zone-calculations-in-your-web-applications-with-utc-mysql/)
 - [Random Quote Generator Using Try-With-Resources In Java](https://www.coderslexicon.com/random-quote-generator-using-try-with-resources-in-java/)
@@ -65,7 +66,6 @@
 - [Using Multiple Submit Buttons With A Single Form](https://www.coderslexicon.com/using-multiple-submit-buttons-with-a-single-form/)
 - [Creating Enumerations in PHP](https://www.coderslexicon.com/creating-enumerations-in-php/)
 - [Exception Handling With A Level of Abstraction](https://www.coderslexicon.com/exception-handling-with-a-level-of-abstraction/)
-- [Minimalism in Code](https://www.coderslexicon.com/minimalism-in-code/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://www.coderslexicon.com
