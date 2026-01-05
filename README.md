@@ -8,7 +8,7 @@
 - ⚡ I'm currently working with several companies as a consultant helping them develop their offerings and deliver tech solutions.
 - ⚡ I work in full stack environments that drive product adoption
 - ⚡ Much of my github account work is in private repositories
-- ⚡ Goal for 2025: Develop a personal library of ready to go code, across multiple languages, for whatever projects I have
+- ⚡ Goal for 2026: Working with AI development tools and creating my own toolset to speed up code delivery for various companies.
 - ⚡ Fun fact: I have mentored thousands of developers over the past 13+ years online. Now you can find me on Sitepoint.com!
 - ⚡ Fun fact: I recently received certifications in Generative AI Development from IBM and Front-End Development from Meta!
 - ⚡ Fun fact: I was recognized for my work on the web platform portion of Bria X which won an award in 2017 for Unified Communications Product of the Year.
